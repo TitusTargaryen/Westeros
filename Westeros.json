@@ -1,0 +1,64 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 1,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/42Dztnb.jpg",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 8,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome",
+                    "text1": "The Best Medieval Server of Ark\n\n\nwith Mods and Engrams modified.\n
+<RichColor Color=\"1,0,0,10\">nuova riga</>\n
+<TextStyle.Red>nuova riga</>",
+					"imageurl": "https://i.imgur.com/5TulQCX.jpg"
+                }
+			}
+			,
+			{
+				"tab2": {
+                    "layout": 1,
+                    "buttontext": "Server info",
+                    "title1": "Server info",
+                    "text1": "
+<TextStyle.Red>nuova riga</>\n
+<TextStyle.LightBlue>nuova riga</>\n
+<TextStyle.Green>nuova riga</>\n
+<TextStyle.Blue>nuova riga</>\n
+<TextStyle.Yellow>nuova riga</>\n
+<TextStyle.Orange>nuova riga</>\n
+<TextStyle.Violet>nuova riga</>\n
+<TextStyle.White>nuova riga</>\n
+<TextStyle.Black>nuova riga</>\n
+					",
+					"imageurl": "https://i.imgur.com/42Dztnb.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/MUyHfUyfeu"
+                }
+            }
+			,
+			{
+                "link2": {
+                    "text": "PornFab",
+                    "url": "https://www.chiesacattolica.it/"
+                }
+            }
+        ]
+    }
+}
